@@ -12,6 +12,8 @@ int main () {
         Tong_cac_so_le += i;
     }
     printf("Tong cac so le la %d \n", Tong_cac_so_le);
+    printf("Trung binh cong cua tong cac so le la %d \n", Tong_cac_so_le/(n/2));
     return 0;
     
 }
+
